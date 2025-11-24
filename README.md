@@ -34,7 +34,7 @@ This project demonstrates my ability to build a full client/server application, 
 
 Repository Contents
 
-📦 CS-340-Project-Two
+CS-340-Project-Two
 │
 ├── ProjectTwoDashboard.ipynb        # Full working dashboard
 ├── CRUD_Python_Module.py            # Custom CRUD module for MongoDB
